@@ -1,3 +1,3 @@
 # ohtuvarasto26
 
-[CI](https://github.com/tomppaaa/ohtuvarasto/actions/workflows/main.yml/badge.svg)
+[![CI](https://github.com/tomppaaa/ohtuvarasto/actions/workflows/main.yml/badge.svg)](https://github.com/tomppaaa/ohtuvarasto/actions/workflows/main.yml)
